@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Utilizado por DH
+=======
+Git Oficial.
+>>>>>>> bibliografia
